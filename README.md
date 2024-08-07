@@ -64,8 +64,9 @@
 
 ### Application Composition
 
-![Application](https://github.com/user-attachments/assets/92f2048a-b8cf-43bf-92c9-c369ecd6025d)
+![image](https://github.com/user-attachments/assets/c88fe36a-1c6c-43a0-89b3-b95c9e651e9e)
 
 ### Module Composition
 
-![Module](https://github.com/user-attachments/assets/a7dba72b-cb95-49cd-8af6-c1f1f6e095ec)
+![image](https://github.com/user-attachments/assets/22f469d8-3d3e-49e1-98dc-b2e47c292436)
+
