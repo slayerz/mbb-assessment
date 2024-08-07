@@ -29,7 +29,7 @@
 
 ## Overview
 
-**Persona** web app is a Personal Profile web application built using Outsystems 11 for the purpose of developer assessment. The web app can be accessed [here.](https://slayerz.outsystemscloud.com/profile)
+**Persona** web app is a Personal Profile web application built using Outsystems 11 for the purpose of developer assessment. The web app can be accessed [here.](https://slayerz.outsystemscloud.com/Persona/)
 
 ## Sample
 
@@ -64,8 +64,8 @@
 
 ### Application Composition
 
-![image-application]()
+![Application](https://github.com/user-attachments/assets/92f2048a-b8cf-43bf-92c9-c369ecd6025d)
 
 ### Module Composition
 
-![image-module]()
+![Module](https://github.com/user-attachments/assets/a7dba72b-cb95-49cd-8af6-c1f1f6e095ec)
